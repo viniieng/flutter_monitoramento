@@ -408,7 +408,3 @@ Este projeto é desenvolvido para fins educacionais.
 ## 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato.
-
----
-
-**Desenvolvido com ❤️ usando Flutter**
